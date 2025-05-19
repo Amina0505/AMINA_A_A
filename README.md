@@ -5,7 +5,6 @@
 | <a href="https://github.com/yourusername](https://github.com/Amina0505)" target="_blank">💻 GitHub</a>
 </h4>
 <h3 align="center">Building scalable solutions with clean code and intuitive design</h3>
-<img src="https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif"  alt="">
 
 <h4>ABOUT ME</h4>
 <P>Passionate full-stack developer with expertise in the MERN stack (MongoDB, Express.js, React.js, Node.js). Adept at designing and deploying robust web applications, with a focus on performance, maintainability, and user-centric design. Strong foundation in both frontend and backend development, complemented by a postgraduate degree in MCA and hands-on project experience.</P>
